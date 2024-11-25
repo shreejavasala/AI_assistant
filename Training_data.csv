@@ -1,0 +1,99 @@
+Text,Category
+"Hi, How are you?",Conversation
+"Open the Calculator",Automation
+"What is Computer Science?",Query
+"Hello, How is it going",Conversation
+"Is it going to rain today?",Query
+"Thank you for helping me out today",Conversation
+"Hi there!",Conversation
+"Make a call to my friend",Automation
+"Send e-mail to a person A",Automation
+"Back up recently deleted files",Automation
+"How to make maggi?",Query
+"Who is Elon Musk?",Query
+"can you explain what is meant by photosynthesis",Query
+"who is the founder of Infosys?",Query
+"what do you think about this?",Conversation
+"I didn't not understand this, can you explain this?",Query
+"play music on spotify",Automation
+"Turn on the TV ",Automation
+"what is the meaning of programming?",Query
+"I don't understand, can you eloborate",Query
+"what do you like to do?",Conversation
+"Give me the tips and tricks",Query
+"why is it raining today?",Query
+"Open Google Chrome.",Automation
+"Set an alarm for 7 AM tomorrow.",Automation
+"Make a call to Mom",Automation
+"It's nice talking to you",Conversation
+"What’s your favorite movie?",Conversation
+"Iam feeling a bit tired today.",Conversation
+"Thank you so much for helping me out",Conversation
+"What is the capital of Telangana?",Query
+"Who is the CEO of Apple?",Query
+"Do you like to watch movies?",Conversation
+"How far is the moon from the Earth?",Query
+"who invented Telephone?",Query
+"Schedule a meeting at 3:00 PM today",Automation
+"where is the nearest coffee shop",Query
+"Translate this sentence to French",Automation
+"good morning!",Conversation
+"what's the best smartphone under $500?",Query
+"why human brain is so powerful?",Query
+"why is the sky blue?",Query
+"Can we talk about the new project tomorrow?",Conversation
+"That sounds like a great idea",Conversation
+"Who is the president of America?",Query
+"Open google chrome",Automation
+"set a Remainder at 5:00 PM",Automation
+"why is it so cool today?",Query
+"Shut down the PC",Automation
+"Can you please send an email to this accoount",Automation
+"hey google, switch off the lights for me",Automation
+"Prepare the report of this document.txt",Automation
+"can you call this number",Automation
+"I appreciate your help in this",Conversation
+"I hope you are having a fantastic weekend",Conversation
+"Hope you're doing well",Conversation
+"what's the weather forecast today?",Query
+"Can you search this word on browser",Query
+"Prepare a powerful presentation",Automation
+"I need your help in this",Conversation
+"What are the symptoms of Covid?",Query
+"Switch to silent mode on my phone",Automation
+"Can you draft the email?",Automation
+"Find the quickest route to airport",Automation
+"Update my profile on LinkedIn",Automation
+"Calculate the distance from Hyderabad to goa",Automation
+"what's up? It's nice to meet you!",Conversation
+"How do you spend your weekends?",Conversation
+"what do you think about the latest news?,Conversation
+"You're so talented at this",Conversation
+"Great job! Keep up the good work",Conversation
+"Could you please help me with this?",Conversation
+"Iam sorry to hear that",Conversation
+"If there's anything, please let me know",Conversation
+"Oh, I didn't know that tell me more",Conversation
+"Please log into my bank account and fetch the balance",Automation
+"Start the route to the nearest metro station",Automation
+"Forward this contact to my colleague",Automation
+"Give me the list of winners of Olympics 2024",Query
+"Top 5 richest countries in the world",Query
+"Best books on the internet",Query
+"List of Inspirational quotes",Query
+"search this recipe on the internet",Automation
+"Most searched person on the internet in the last 24 hours?",Query
+"Make/Prepare a copy of this document",Automation
+"Make a list of 5 places to visit this summer",Automation
+"Add a new task to my to do list",Automation
+"Cancel the appointment for the afternoon",Automation
+"Run a full system scan for viruses",Automation
+
+
+
+
+
+
+
+
+
