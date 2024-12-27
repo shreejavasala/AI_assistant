@@ -3,22 +3,25 @@ Text,Category
 "Open the Calculator",Automation
 "What is Computer Science?",Query
 "Hello, How is it going",Conversation
-"Is it going to rain today?",Query
+"Is it going to rain today in Mumabai?",Query
 "Thank you for helping me out today",Conversation
 "Hi there!",Conversation
-"Make a call to my friend",Automation
-"Send e-mail to a person A",Automation
+"please make a call to my friend",Automation
+"Send an e-mail to my colleague",Automation
 "Back up recently deleted files",Automation
 "How to make maggi?",Query
 "Who is Elon Musk?",Query
 "can you explain what is meant by photosynthesis",Query
 "who is the founder of Infosys?",Query
 "what do you think about this?",Conversation
-"I didn't not understand this, can you explain this?",Query
+"What is the purpose of this?",Query
+"What does this thing refer to?",Query
+"I didn't understand this, can you explain this?",Query
+"can we talk about this?",Conversation
 "play music on spotify",Automation
 "Turn on the TV ",Automation
 "what is the meaning of programming?",Query
-"I don't understand, can you eloborate",Query
+"I don't understand, can you eloborate?",Query
 "what do you like to do?",Conversation
 "Give me the tips and tricks",Query
 "why is it raining today?",Query
@@ -32,10 +35,10 @@ Text,Category
 "What is the capital of Telangana?",Query
 "Who is the CEO of Apple?",Query
 "Do you like to watch movies?",Conversation
-"How far is the moon from the Earth?",Query
+"Go to c drive and create a new file named newproject",Automation
 "who invented Telephone?",Query
 "Schedule a meeting at 3:00 PM today",Automation
-"where is the nearest coffee shop",Query
+"where is the nearest coffee shop?",Query
 "Translate this sentence to French",Automation
 "good morning!",Conversation
 "what's the best smartphone under $500?",Query
@@ -56,8 +59,8 @@ Text,Category
 "I hope you are having a fantastic weekend",Conversation
 "Hope you're doing well",Conversation
 "what's the weather forecast today?",Query
-"Can you search this word on browser",Query
-"Prepare a powerful presentation",Automation
+"Can you search this word on browser",Automation
+"can you prepare a presentation on Netflix",Automation
 "I need your help in this",Conversation
 "What are the symptoms of Covid?",Query
 "Switch to silent mode on my phone",Automation
@@ -81,13 +84,155 @@ Text,Category
 "Top 5 richest countries in the world",Query
 "Best books on the internet",Query
 "List of Inspirational quotes",Query
-"search this recipe on the internet",Automation
+"Search this recipe on the internet",Query
 "Most searched person on the internet in the last 24 hours?",Query
 "Make/Prepare a copy of this document",Automation
 "Make a list of 5 places to visit this summer",Automation
 "Add a new task to my to do list",Automation
 "Cancel the appointment for the afternoon",Automation
 "Run a full system scan for viruses",Automation
+"What are you doing?",Conversation
+"Tell me a joke",Conversation
+"That's not what I asked",Conversation
+"What's up?",Conversation
+"Good morning",Conversation
+"Thanks for helping out",Conversation
+"Set the thermostat to 72 degrees",Automation
+"what's the status of washing machine?",Query
+"Check the status of the washing machine",Automation
+"Remind me later",Automation
+"What's the time?",Automation
+"Where am I right now?",Query
+"Show my current location on tha map",Automation
+"Convert 10 kilometers to miles",Automation
+"what's the exchange rate for USD to EUR?",Query
+"Save this as a PDF",Automation
+"Book an appointment with the dentist for friday",Automation
+"Restart the system",Automation
+"Check for software updates",Automation
+"Export this data to excel",Automation
+"write a python script for sorting numbers",Automation
+"Activate security mode",Automation
+"Can you turn on the fan?,Automation
+"Increase the TV volume by 10%",Automation
+"Create a new folder named 'work projects'",Automation
+"Please delete all temporary files",Automation
+"Call mom and put it on speaker",Automation
+"Forward yesterday's email to the team",Automation
+"Track my recent Amazon order",Automation
+"Delete all unread messages from my inbox",Automation
+"you're the best! Thanks again",Conversation
+"Excuse me, could you help me with this",Conversation
+"keep up the good work, you're doing great",Conversation
+"what's your favorite hobby?",Conversation
+"Iam doing well, thank you for asking",Conversation
+"Iam sorry to hear that",Conversation
+"sending you my best wishes during this time",Conversation
+"I completely agree with you",Conversation
+"That sounds like a lot of fun",Conversation
+"Do you enjoy the work",Conversation
+"Sure! I'd be happy to help",Conversation
+"Any plans for the holidays",Conversation
+"Long time no see! How have you been?",Conversation
+"How's everything going?",Conversation
+"Have you tried the new restaurant in town today?",Conversation
+"What's your favourite type of music?",Conversation
+"How do you feel about the new project?",Conversation
+"let's catch up some time soon",Conversation
+"what's the weather forecast today?",Query
+"How do you pronounce Amsterdam?",Query
+"How do I bake a chocolate cake?",Query
+"How many bones are there in the human body?",Query
+"How do you spell this word",Query
+"What is the meaning of carpedium?",Query
+"Who owns Microsoft?",Query
+"How to become a software Engineer?",Query
+"What do you think about this idea?",Query
+"Give me the tips to make an interactive user interface",Query
+"What is the capital of France?",Query
+"How to learn Spanish?",Query
+"Give me step by step procedure to create a AI model",Query
+"What is the solution to this problem?",Query
+"How to solve this equation?",Query
+"What is the latest news in Hyderabad?",Query
+"How to operate phone?",Query
+"What are the hidden features of a laptop?",Query
+"What time is it in UK?",Query
+"What is the quickest way to learn full stack?",Query
+"List top 5 recipes to cook",Query
+"List of Top 5 most beautiful places to visit",Query
+"Provide me list of 10 recipes to cook",Query
+"Top ten millionaries in the world",Query
+"What's the synonym of smart?",Query
+"How do I start learing python?",Query
+"Hi",Conversation
+"Hello, what's up?",Conversation
+"Have you seen any good movies recently?",Conversation
+"Thanks for asking, I'm doing great",Conversation
+"What have you been up to lately?",Conversation
+"let me know if you need anything",Conversation
+"Have a great day ahead",Conversation
+"Can we talk about something personal?",Conversation
+"I'm just checking in to see how you're doing",Conversation
+"How do a computer word?",Query
+"who invented light bulb?",Query
+"Where can I find the nearest ATM?",Query
+"What is Arficial Intelligence?",Query
+"Can you eloborate this topic?",Query
+"Can you explain quantum physics",Query
+"What are the symptoms of cold?",Query
+"How do this app worK?",Query
+"Email to Mr.John",Automation
+"Search the web for the nearest coffee shop",Automation
+"Play sone relaxing music",Automation
+"Can you make a call to Daddy",Automation
+"Delete the last photo in my gallery",Automation
+"Translate my speech to Hindi",Automation
+"Can you open the Instagram",Automation
+"Can you update the my to do list?",Automation
+"Is it going to rain tomorrow?",Query
+"Who is going to win this elections?",Query
+"When is the next flight to Paris?",Query
+"Notify me for the system update",Automation
+"Wow, that's an amazing news",Conversation
+"Nice to meet you",Conversation
+"Set up a new virtual environment inside project folder",Automation
+"How is your day?",Conversation
+"What are the examples of ",Query
+"It's nice to finally have a chat with you",Conversation
+"That was a really funny joke",Conversation
+"Can you give a brief understanding of computer networks?",Query
+"Who wrote the book Atomic Habits?",Query
+"What's the difference between bacteria and virus?",Query
+"Set a timer for 20 minutes",Automation
+"Sort all the documents in the folder by date",Automation
+"Can you tell me how to fix a flat tire?",Query
+"Generate a report of last month's sales",Automation
+"How do I calculate compound Interest?",Query
+"Can you print this document for me?",Automation
+"Which city is Italy's capital?",Query
+"Block unknown calls",Automation
+"What is the closest pharmacy to me right now?",Query
+"Mute all the notifications for next 1 hour",Automation
+"Order a pizza from my favorite restaurant",Automation
+"Sorry I didn't understand, can you repeat?",Conversation
+"How can I translate my speech to French?",Query
+"Iam not able to grasp",Conversation
+"I don't understand",Conversation
+"Find my location",Automation
+"Thanks for understanding, can you be a bit more specific?",Conversation
+"Turn on washine machine",Automation
+"Name some pinteresty ideas on decorating my room",Query
+"Give me an outfit inspo",Query
+"List the most efficient ways to recycle plastic?",Query
+"Go to system settings",Automation
+"Create a shopping list for this work",Automation
+"Set up a wi-fi connection",Automation
+"What is the distance between Hyderabad and chennai?",Query
+"Will I need an umbrella today?",Query
+"Disconnect the Bluetooth",Automation
+"please set up a new zoom meeting",Automation
+
 
 
 
